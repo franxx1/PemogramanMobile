@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "314409525503",
+    "project_id": "todo-fransiskusandre",
+    "storage_bucket": "todo-fransiskusandre.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314409525503:android:ac9b0785b61aa7bb8aacca",
+        "android_client_info": {
+          "package_name": "com.example.posttest7_2009106065_fransiskusandre"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314409525503-d5fsql0h1gpjbh21mi2marm5ht7pp77l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtLLUeQ-5JoKBPDfrDSg1RuFADrBwYZy4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "314409525503-d5fsql0h1gpjbh21mi2marm5ht7pp77l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
